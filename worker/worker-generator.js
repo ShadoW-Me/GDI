@@ -299,7 +299,7 @@ async function handleRequest(request) {
   <div class="mb-3">
     <label for="authcode" class="form-label">Authentication Code</label>
     <input type="text" class="form-control" id="authcode" name="auth_code" aria-describedby="authcodefromgoogle" required>
-    <div id="authcodefromgoogle" class="form-text">Enter Code Generated from Google. Keep it private and do not share.</div>
+    <div id="authcodefromgoogle" class="form-text">Enter Code Generated from Google. Keep it private and donot share.</div>
   </div>
   <div class="mb-3">
     <label for="sitename" class="form-label">Site Name</label>
